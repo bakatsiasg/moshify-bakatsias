@@ -440,8 +440,8 @@ background: #02cdf1;
 }
 
 .quote__image{
- position: relative;
- bottom: 10px;
+    position: relative;
+    bottom: 10px;
 }
 
 @media screen and (min-width: 1024px){
